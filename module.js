@@ -11,7 +11,7 @@
 	  	})
 	  
      .when("/story",{
-         template:`<story-component></form-component>`
+         template:`<story-component></story-component>`
      })
 
 	  })

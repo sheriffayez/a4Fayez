@@ -3,12 +3,11 @@
 
 var story = {
 controller: "storyController",
-template: `<button> restart story</button>
+templateUrl:"story.html"
 
 
 
-`
-}
+};
 
 angular
 .module("storyApp")
